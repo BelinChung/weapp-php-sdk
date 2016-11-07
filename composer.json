@@ -1,0 +1,17 @@
+{
+    "name": "belinchung/wechat-php-sdk",
+    "description": "wechat app aes php sdk",
+    "authors": [
+        {
+            "name": "BelinChung",
+            "email": "BelinChung@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.0.0"
+    },
+    "autoload": {
+        "classmap": ["lib/wxBizDataCrypt.php"]
+    },
+    "license": "MIT"
+}
