@@ -2,6 +2,7 @@
 
 include_once "../src/wxBizDataCrypt.php";
 
+
 $appid = 'wx4f4bc4dec97d474b';
 $sessionKey = 'tiihtNczf5v6AKRyjwEUhQ==';
 
